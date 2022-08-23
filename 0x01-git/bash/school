@@ -4,3 +4,5 @@ echo "School"
 echo "Teh school is open"
 #!bin/bash
 echo "The School is cool!"
+#!bin/bash
+echo "The School is cool!"
